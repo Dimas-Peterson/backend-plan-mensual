@@ -1,0 +1,5 @@
+com\controlFit\planMensual\PlanMensualApplication.class
+com\controlFit\planMensual\web\IndexController.class
+com\controlFit\planMensual\service\MailService.class
+com\controlFit\planMensual\web\IndexRestController.class
+com\controlFit\planMensual\config\MailConfig.class
